@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Roboto;
+}
+
+header {
+  padding: 12px 0;
+  background-color: #1f2937;
+}
+
+nav {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.menu {
+  gap: 24px;
+  display: flex;
+}
+
+.link a {
+  text-decoration: none;
+  color: #e5e7eb;
+  font-size: 18px;
+}
+
+.logo {
+  font-size: 24px;
+  color: #f9faf8;
+  font-weight: 700;
+  margin-right: auto;
+}
+
+section {
+  background-color: #1f2937;
+  padding: 48px 0;
+}
+
+.hero {
+  max-width: 1200px;
+  padding: 5em 0;
+  margin: 0 auto;
+  display: flex;
+  color: #f9faf8;
+  justify-content: space-between;
+}
+
+.hero-left {
+  max-width: 450px;
+}
+
+.hero-main-text {
+  font-size: 48px;
+  font-weight: 900;
+}
+
+.hero-sub-text {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.hero-right {
+  background-color: gray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+}
+
+.hero-sign-up {
+  background-color: #3882f6;
+  border: none;
+  color: #f9faf8;
+  font-size: 18px;
+  padding: 8px 28px;
+  font-weight: 500;
+  border-radius: 8px;
+  margin-top: 8px;
+}
