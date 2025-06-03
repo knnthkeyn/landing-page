@@ -159,6 +159,7 @@ nav {
 
 .call-sub-text {
   font-weight: 200;
+  font-size: 14px;
 }
 
 .call-button {
@@ -168,4 +169,16 @@ nav {
   border-radius: 10px;
   padding: 4px 40px;
   font-size: 18px;
+}
+
+footer {
+  background-color: #1f2937;
+  color: #f9faf8;
+  padding: 24px;
+}
+
+.footer-text {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 300;
 }
