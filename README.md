@@ -1,1 +1,3 @@
-# landing-page
+# THE ODIN PROJECT
+
+## LANDING PAGE PROJECT
