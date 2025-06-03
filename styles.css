@@ -118,4 +118,25 @@ nav {
   border-radius: 10px;
   width: 150px;
   height: 150px;
+  margin-bottom: 8px;
+}
+
+.quote-section {
+  background-color: #e5e7eb;
+}
+
+.quote-container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 150px 200px;
+}
+
+.quote {
+  font-size: 36px;
+  font-weight: 200;
+}
+
+.quote-author {
+  text-align: right;
+  font-size: 18px;
 }
